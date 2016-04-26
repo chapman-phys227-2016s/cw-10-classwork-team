@@ -1,8 +1,7 @@
 # PHYS227 CW 10
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Michael Seaman, Taylor Patti, Austin Ayers, Chinmai Raman, Andrew Malfavon
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-10-YOURTEAM.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-10-YOURTEAM)
 
 **Due date:** 2016/04/26
 
@@ -52,7 +51,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for int
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Good times.
 
 ## Honor Pledge
 
@@ -63,4 +62,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name(s)\>_
+Michael Seaman, Taylor Patti, Austin Ayers, Chinmai Raman, Andrew Malfavon
